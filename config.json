@@ -1,0 +1,14 @@
+{
+    "port": 5845,
+    "log_enabled": true,
+    "directories": [
+        {
+            "path": "landscape",
+            "directory": "D:\\Administrator\\图片\\横屏壁纸"
+        },
+        {
+            "path": "portrait",
+            "directory": "D:\\Administrator\\图片\\竖屏壁纸"
+        }
+    ]
+}
